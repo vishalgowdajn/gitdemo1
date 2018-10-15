@@ -1,1 +1,3 @@
 this is a yes yesyesyes new file local
+staged dir
+unchanged stage
